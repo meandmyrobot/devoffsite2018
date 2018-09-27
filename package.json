@@ -1,0 +1,31 @@
+{
+  "name": "reasonone-agent",
+  "version": "1.0.0",
+  "description": "Google Assistant agent using node.js that integrates via API.AI.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meandmyrobot/devoffsite2018.git"
+  },
+  "keywords": [],
+  "author": "Michael Kinkaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meandmyrobot/devoffsite2018/issues"
+  },
+  "homepage": "https://github.com/meandmyrobot/devoffsite2018#readme",
+  "dependencies": {
+    "actions-on-google": "^1.0.9",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.19.0",
+    "mocha": "^3.3.0"
+  }
+}
