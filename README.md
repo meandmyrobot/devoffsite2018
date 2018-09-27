@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/meandmyrobot/reasonone-agent.svg?branch=master)](https://travis-ci.org/meandmyrobot/reasonone-agent)
-# reasonone-agent
+# razonjuan-agent
 Google Assistant agent built with node.js that uses a repository of content stored on Kentico Cloud for fullfillment. This project plays around with a few things:
 
 * [Node.js](https://nodejs.org/en/)
